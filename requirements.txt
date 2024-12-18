@@ -1,0 +1,17 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+
+streamlit
+streamlit-pdf-viewer
+serpapi
+openai
+pandas
+pypdf2
+requests
+matplotlib
+google-search-results
+habanero
+streamlit_extras
+selenium
+webdriver_manager
